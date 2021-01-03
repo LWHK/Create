@@ -1677,31 +1677,31 @@
 	"block.create.redstone_link.tooltip.action2": "在_发射模式_和_接收模式_之间切换。",
 
 	"block.create.nixie_tube.tooltip": "辉光管",
-	"block.create.nixie_tube.tooltip.summary": "一个花里胡哨的_红石强度_显示器，范围：0到15。",
+	"block.create.nixie_tube.tooltip.summary": "一个精致，且有红石能量激活的_数值_和_文本_显示器。",
 	"block.create.nixie_tube.tooltip.condition1": "被红石激活时",
-	"block.create.nixie_tube.tooltip.behaviour1": "直观的显示当前红石型号的强度",
+	"block.create.nixie_tube.tooltip.behaviour1": "直观的显示当前_红石信号_的强度",
 	"block.create.nixie_tube.tooltip.condition2": "被命名牌命名时",
-	"block.create.nixie_tube.tooltip.behaviour2": "显示_命名牌内容_，名称过长时需要_沿直线排列_多个辉光管。",
+	"block.create.nixie_tube.tooltip.behaviour2": "在_沿直线排列_多个辉光管上显示_命名牌内容_。",
 
 	"block.create.redstone_contact.tooltip": "接触式红石信号发生器",
-	"block.create.redstone_contact.tooltip.summary": "一种用于高级红石装置的设备。只能两两工作。可以被_动力活塞_和_动力轴承_等带动",
+	"block.create.redstone_contact.tooltip.summary": "一种用于高级红石装置的设备。只能两两工作。可以被_动力活塞_和_动力轴承_等控制类机器带动。",
 	"block.create.redstone_contact.tooltip.condition1": "当正对面放置也放置_相互朝向_的接触信号发生器时",
-	"block.create.redstone_contact.tooltip.behaviour1": "提供_红石信号_。",
+	"block.create.redstone_contact.tooltip.behaviour1": "发出_红石信号_。",
 	"block.create.redstone_contact.tooltip.condition2": "当移动时",
-	"block.create.redstone_contact.tooltip.behaviour2": "如果接触到其他信号发生器，使其发出红石信号。",
+	"block.create.redstone_contact.tooltip.behaviour2": "会使所有与其接触的发生器发出红石信号。",
 
 	"block.create.adjustable_crate.tooltip": "可调节板条箱",
-	"block.create.adjustable_crate.tooltip.summary": "该箱子支持玩家对其容量进行调整，最大可以容纳_16组_物品。",
+	"block.create.adjustable_crate.tooltip.summary": "该箱子支持玩家对其容量进行调整，最大可以容纳_16组_物品。支持_红石比较器_。",
 	"block.create.adjustable_crate.tooltip.control1": "当右键时",
 	"block.create.adjustable_crate.tooltip.action1": "打开箱子",
 
 	"block.create.creative_crate.tooltip": "创造板条箱",
-	"block.create.creative_crate.tooltip.summary": "这个容器可以给临近的_蓝图大炮_提供无限物品以及燃料 （创造专用物品）",
+	"block.create.creative_crate.tooltip.summary": "这种_储存容器_可以无限地复制任何物品。它还可以移除附近的_蓝图大炮_的材料需求。",
 	"block.create.creative_crate.tooltip.condition1": "当标记了物品时",
-	"block.create.creative_crate.tooltip.behaviour1": "容器将会从虚空中提供_无限量_的标记物品，并且任何放置到容器中的物品都会被_送入虚空_",
+	"block.create.creative_crate.tooltip.behaviour1": "任何从容器中_提取_的物品都是_无限量的_ ，而任何_放置_到容器中的物品都会被_送入虚空_",
 
 	"block.create.deployer.tooltip": "机械手",
-	"block.create.deployer.tooltip.summary": "它是一个尽可能_模仿玩家_的行为的_机械手_，自带一个物品_缓存区_，可以由漏斗、动力臂等输入设备为其提供物品，并带有过滤插槽",
+	"block.create.deployer.tooltip.summary": "_攻击_，_使用_，以及 _激活_。这个机器会竭尽所能地_模仿_一个_玩家_的行为。它可以将物品从其自身的_物品栏_中_拿取_出来，或者将物品_存入_其中。Held items have to be _inserted_ and _extracted_ from the block directly.",
 	"block.create.deployer.tooltip.condition1": "接入动能时",
 	"block.create.deployer.tooltip.behaviour1": "机械手可伸长_两个方块_的距离，取出_缓存区_的物品并使用。",
 	"block.create.deployer.tooltip.condition2": "当使用扳手右键时",
@@ -1713,13 +1713,13 @@
 	"block.create.brass_casing.tooltip.summary": "一种坚固的机壳，有多种用途。可以用来包装_传动杆_以及_传送带_。",
 
 	"block.create.pulse_repeater.tooltip": "可调节脉冲中继器",
-	"block.create.pulse_repeater.tooltip.summary": "一个简单的电路元件，将通过的红石信号变为1tick。",
+	"block.create.pulse_repeater.tooltip.summary": "一个简单的电路元件，将通过的红石信号变为 1 tick。",
 
 	"block.create.adjustable_repeater.tooltip": "可调节中继器",
-	"block.create.adjustable_repeater.tooltip.summary": "高级中继器，最大可设置30分钟延迟",
+	"block.create.adjustable_repeater.tooltip.summary": "高级中继器，最大可设置 30 分钟延迟。",
 
 	"block.create.adjustable_pulse_repeater.tooltip": "可调节脉冲中继器",
-	"block.create.adjustable_pulse_repeater.tooltip.summary": "一种单次1tick的红石脉冲器，可以调节延时至30min",
+	"block.create.adjustable_pulse_repeater.tooltip.summary": "一种单次 1 tick 的红石脉冲器，可以调节延时至30 min。",
 
 	"block.create.analog_lever.tooltip": "可调节拉杆",
 	"block.create.analog_lever.tooltip.summary": "一种可以调节任意信号强度的推杆。",
@@ -1731,7 +1731,7 @@
 	"block.create.powered_latch.tooltip.summary": "一种拉杆，在红石电路中用作锁存器，从后方输入将会启用这个拉杆，从侧边输入将会重置这个拉杆。",
 
 	"block.create.controller_rail.tooltip": "控制铁轨",
-	"block.create.controller_rail.tooltip.summary": "一种_汇流的，受红石信号影响的铁轨_，可以_较好地控制_经过矿车的_移动速度_。",
+	"block.create.controller_rail.tooltip.summary": "一种_汇流的，受红石信号影响的_铁轨，可以_较好地控制_经过矿车的_移动速度_。",
 	"block.create.controller_rail.tooltip.condition1": "被红石激活时",
 	"block.create.controller_rail.tooltip.behaviour1": "根据信号强度_加速_或_减速_经过的矿车。还会将红石信号传递到相邻的控制铁轨。向两个控制铁轨通入不同等级的红石信号，will cause tracks between them to interpolate their signal.。",
 
@@ -1745,17 +1745,17 @@
 	"block.create.stressometer.tooltip.condition1": "接入动力时",
 	"block.create.stressometer.tooltip.behaviour1": "将会用颜色展示承受的应力。如果_网络过载_则会瘫痪，必须_减少使用机器_或者_增加动力源_。",
 
-	"item.create.sand_paper.tooltip": "红砂纸",
+	"item.create.sand_paper.tooltip": "砂纸",
 	"item.create.sand_paper.tooltip.summary": "用来_打磨_物品的砂纸，可以用_机械手_来实现自动化。",
 	"item.create.sand_paper.tooltip.condition1": "使用时",
 	"item.create.sand_paper.tooltip.behaviour1": "打磨_副手_上或者_准心所指_的物品。",
 
 	"item.create.super_glue.tooltip": "强力胶",
-	"item.create.super_glue.tooltip.summary": "让两个方块互相_粘黏_，他们会一直因此相爱到永远",
+	"item.create.super_glue.tooltip.summary": "让两个方块互相_粘在一起_，他们将再也无法分开了。",
 	"item.create.super_glue.tooltip.condition1": "右键使用时",
-	"item.create.super_glue.tooltip.behaviour1": "有强力胶的方块的_那一面_会变得有粘性。和此面相邻的方块在被_动力活塞_或者_动力轴承_等方块驱动的时候会被一同带动",
+	"item.create.super_glue.tooltip.behaviour1": "有强力胶的方块的_那一面_会变得有黏性。和此面相邻的方块在被_动力活塞_或者_动力轴承_等方块驱动的时候会被一同带动",
 	"item.create.super_glue.tooltip.condition2": "在副手上时",
-	"item.create.super_glue.tooltip.behaviour2": "主手放置的方块会被_直接_黏在所放置的方块上",
+	"item.create.super_glue.tooltip.behaviour2": "主手放置的方块会被_直接_粘在所放置的方块上",
 
 	"item.create.builders_tea.tooltip": "建造工茶饮",
 	"item.create.builders_tea.tooltip.summary": "饮下这杯完美茶饮，开始神清气爽的一天。可以回复_饥饿值_并获得_急迫_效果。",
