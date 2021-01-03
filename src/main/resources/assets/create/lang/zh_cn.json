@@ -1731,19 +1731,19 @@
 	"block.create.powered_latch.tooltip.summary": "一种拉杆，在红石电路中用作锁存器，从后方输入将会启用这个拉杆，从侧边输入将会重置这个拉杆。",
 
 	"block.create.controller_rail.tooltip": "控制铁轨",
-	"block.create.controller_rail.tooltip.summary": "一种_汇流的，受红石影响的铁轨_，可以_较好地控制_经过矿车的_移动速度_。",
+	"block.create.controller_rail.tooltip.summary": "一种_汇流的，受红石信号影响的铁轨_，可以_较好地控制_经过矿车的_移动速度_。",
 	"block.create.controller_rail.tooltip.condition1": "被红石激活时",
 	"block.create.controller_rail.tooltip.behaviour1": "根据信号强度_加速_或_减速_经过的矿车。还会将红石信号传递到相邻的控制铁轨。向两个控制铁轨通入不同等级的红石信号，will cause tracks between them to interpolate their signal.。",
 
 	"block.create.speedometer.tooltip": "速度表",
-	"block.create.speedometer.tooltip.summary": "测量并展示连接网络的旋转速度，支持使用红石比较器",
+	"block.create.speedometer.tooltip.summary": "测量并展示连接网络的_旋转速度_，支持使用_红石比较器_。",
 	"block.create.speedometer.tooltip.condition1": "接入动力时",
-	"block.create.speedometer.tooltip.behaviour1": "将会用颜色展示速度的大小，绿-慢、蓝-中、紫-快。",
+	"block.create.speedometer.tooltip.behaviour1": "将会用颜色展示速度的大小，_绿色_为慢速、_蓝色_为中速、_紫色_为快速。一些动力组件需要足够的速度等级方能正常工作。",
 
 	"block.create.stressometer.tooltip": "应力表",
-	"block.create.stressometer.tooltip.summary": "测量并展示连接网络的应力值，支持红石比较器",
+	"block.create.stressometer.tooltip.summary": "测量并展示连接网络的_应力值_，支持使用_红石比较器_。",
 	"block.create.stressometer.tooltip.condition1": "接入动力时",
-	"block.create.stressometer.tooltip.behaviour1": "将会用颜色展示承受的应力。如果网络过载则会瘫痪，必须减少机器或者增加动力",
+	"block.create.stressometer.tooltip.behaviour1": "将会用颜色展示承受的应力。如果_网络过载_则会瘫痪，必须_减少使用机器_或者_增加动力源_。",
 
 	"item.create.sand_paper.tooltip": "红砂纸",
 	"item.create.sand_paper.tooltip.summary": "用来_打磨_物品的砂纸，可以用_机械手_来实现自动化。",
@@ -1758,7 +1758,7 @@
 	"item.create.super_glue.tooltip.behaviour2": "主手放置的方块会被_直接_黏在所放置的方块上",
 
 	"item.create.builders_tea.tooltip": "建造工茶饮",
-	"item.create.builders_tea.tooltip.summary": "神清气爽的一天，从这杯完美茶饮开始。回复_饥饿值_并获得_急迫_效果。",
+	"item.create.builders_tea.tooltip.summary": "饮下这杯完美茶饮，开始神清气爽的一天。可以回复_饥饿值_并获得_急迫_效果。",
 
 	"item.create.refined_radiance.tooltip": "光辉石",
 	"item.create.refined_radiance.tooltip.summary": "一种用_光辉_锻造的化合物材料。",
