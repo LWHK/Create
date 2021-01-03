@@ -1573,7 +1573,7 @@
 	"block.create.windmill_bearing.tooltip.behaviour1": "启动轴承，提供由其_附加结构_的旋转产生的动力。结构必须包括合适的_风帆_或_羊毛_。使用_机壳底盘_，_粘液块_或_强力胶_可以带动更多方块旋转。",
 
 	"block.create.sail_frame.tooltip": "风帆框架",
-	"block.create.sail_frame.tooltip.summary": "A useful building block and source of kinetic energy when part of a structure mounted onto a _Windmill Bearing_.",
+	"block.create.sail_frame.tooltip.summary": "实用的建筑方块，而将其安装于_风车轴承_上并组成特定结构时，它又能产出动力学能量。",
 
 	"block.create.white_sail.tooltip": "风帆",
 	"block.create.white_sail.tooltip.summary": "可用于_组装风车_的结构方块，不俗的动力来源，有多种颜色。",
@@ -1593,11 +1593,11 @@
 	"block.create.sequenced_gearshift.tooltip.behaviour2": "将打开_配置界面_",
 
 	"block.create.cart_assembler.tooltip": "矿车装配站",
-	"block.create.cart_assembler.tooltip.summary": "将连接当前方块的结构连接在_矿车_上",
-	"block.create.cart_assembler.tooltip.condition1": "当被红石信号激活时",
-	"block.create.cart_assembler.tooltip.behaviour1": "将装配站上连接的结构组装到矿车上，并送矿车上路",
-	"block.create.cart_assembler.tooltip.condition2": "没有红石信号时",
-	"block.create.cart_assembler.tooltip.behaviour2": "将经过的矿车上的结构_实体化_，并停住矿车。",
+	"block.create.cart_assembler.tooltip.summary": "当放置于铁轨上时，将会_组装_或者_解组装_穿越它的矿车移动结构。按下 [Ctrl] 可以查阅它在不同轨道上的行为。",
+	"block.create.cart_assembler.tooltip.condition1": "Single Cart Contraptions",
+	"block.create.cart_assembler.tooltip.behaviour1": "With a _single_ assember, structures will anchor and rotate on a _single minecart_. Use a _wrench_ to specify desired _rotation behaviour_.",
+	"block.create.cart_assembler.tooltip.condition2": "Carriage Contraptions",
+	"block.create.cart_assembler.tooltip.behaviour2": "Two cart assembers _connected by_ a _structure_ will, once both contain a minecart, connect those carts with a _contraption mounted between_ the _two_ of them. The structure will behave similarly to a _Minecart Coupling_.",
 	"block.create.cart_assembler.tooltip.control1": "放置于轨道上时",
 	"block.create.cart_assembler.tooltip.action1": "红石激活时_装配_经过的矿车，未激活时_卸载_经过的矿车。",
 	"block.create.cart_assembler.tooltip.control2": "放置于充能铁轨上时",
@@ -1635,7 +1635,7 @@
 
 	"block.create.mechanical_drill.tooltip": "动力钻头",
 	"block.create.mechanical_drill.tooltip.summary": "用于_破坏方块_的装置，可以被_动力活塞_和_动力轴承_等移动设备带动",
-	"block.create.mechanical_drill.tooltip.condition1": "被供能时",
+	"block.create.mechanical_drill.tooltip.condition1": "当接入动力时",
 	"block.create.mechanical_drill.tooltip.behaviour1": "_原地_破坏正前方的方块，且_伤害_在一定范围内生物及玩家。",
 	"block.create.mechanical_drill.tooltip.condition2": "当移动时",
 	"block.create.mechanical_drill.tooltip.behaviour2": "横向或纵向沿路破坏其所_碰到_的方块。",
@@ -1660,9 +1660,9 @@
 	"block.create.mechanical_saw.tooltip.behaviour3": "将会砍倒碰撞到的树木",
 
 	"block.create.stockpile_switch.tooltip": "存量检测器",
-	"block.create.stockpile_switch.tooltip.summary": "根据连接的容器_存储空间_的占用情况切换红石信号强度。",
-	"block.create.stockpile_switch.tooltip.condition1": "低于_下线_或高于_上线_时",
-	"block.create.stockpile_switch.tooltip.behaviour1": "提供红石信号",
+	"block.create.stockpile_switch.tooltip.summary": "根据连接的容器中_储存物品_的数量切换红石信号强度。自带有过滤槽，与_比较器_正相反的是，你可以配置_存量检测器_信号反转的_阈值_。",
+	"block.create.stockpile_switch.tooltip.condition1": "当右键时",
+	"block.create.stockpile_switch.tooltip.behaviour1": "打开_配置接口_。",
 
 	"block.create.content_observer.tooltip": "物品侦测器",
 	"block.create.content_observer.tooltip.summary": "检测_容器_和_传送带_中过滤器匹配的物品。当观察到包含匹配的物品时，此组件将发出_红石信号_。当观察到的漏斗_转移匹配的物品_时，此组件将发出_红石脉冲_。",
@@ -1707,10 +1707,10 @@
 	"block.create.deployer.tooltip.condition2": "当使用扳手右键时",
 	"block.create.deployer.tooltip.behaviour2": "启用拳头模式，在拳头模式之下，机械手将会试图使用手中的物品_破坏方块_，或者_攻击实体_。",
 	"block.create.deployer.tooltip.condition3": "配有_过滤器_时",
-	"block.create.deployer.tooltip.behaviour3": "当_缓存区_的物品与过滤器匹配，机械手才会取出并使用，不匹配的物品_无法从外部输入_到机械手的_缓存区_中；_缓存区_中与过滤器匹配的物品_无法被提取_。",
+	"block.create.deployer.tooltip.behaviour3": "只有在机械手手持的物品与_过滤器_物品相_匹配_时才会激活。Items not matching cannot be inserted; Held items matching the filter cannot be extracted.",
 
 	"block.create.brass_casing.tooltip": "黄铜机壳",
-	"block.create.brass_casing.tooltip.summary": "一种坚固的机壳，有多种用途。",
+	"block.create.brass_casing.tooltip.summary": "一种坚固的机壳，有多种用途。可以用来包装_传动杆_以及_传送带_。",
 
 	"block.create.pulse_repeater.tooltip": "可调节脉冲中继器",
 	"block.create.pulse_repeater.tooltip.summary": "一个简单的电路元件，将通过的红石信号变为1tick。",
@@ -1731,9 +1731,9 @@
 	"block.create.powered_latch.tooltip.summary": "一种拉杆，在红石电路中用作锁存器，从后方输入将会启用这个拉杆，从侧边输入将会重置这个拉杆。",
 
 	"block.create.controller_rail.tooltip": "控制铁轨",
-	"block.create.controller_rail.tooltip.summary": "单向电动导轨，能够精细控制矿车的移动速度。",
+	"block.create.controller_rail.tooltip.summary": "一种_汇流的，受红石影响的铁轨_，可以_较好地控制_经过矿车的_移动速度_。",
 	"block.create.controller_rail.tooltip.condition1": "被红石激活时",
-	"block.create.controller_rail.tooltip.behaviour1": "根据信号强度_加速_或_减速_经过的矿车。将红石强度传播到相邻的控制铁轨。",
+	"block.create.controller_rail.tooltip.behaviour1": "根据信号强度_加速_或_减速_经过的矿车。还会将红石信号传递到相邻的控制铁轨。向两个控制铁轨通入不同等级的红石信号，will cause tracks between them to interpolate their signal.。",
 
 	"block.create.speedometer.tooltip": "速度表",
 	"block.create.speedometer.tooltip.summary": "测量并展示连接网络的旋转速度，支持使用红石比较器",
