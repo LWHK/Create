@@ -1089,6 +1089,8 @@
     "create.tooltip.chute.fans_pull_up": "鼓风机从上方进行吸引",
     "create.tooltip.chute.fans_pull_down": "鼓风机从下方进行吸引",
 
+	"create.hint.hose_pulley.title": "无限供应",
+	"create.hint.hose_pulley": "目标液体对象被视为无限量的。",
 	"create.hint.mechanical_arm_no_targets.title": "没有目标",
 	"create.hint.mechanical_arm_no_targets": "看起来这个_动力臂_没有被分配任何_目标_。在手持机械臂的同时，右键选取传送带、置物台、漏斗或其他设备来设置目标。",
 	"create.hint.horizontal_funnel.title": "水平漏斗",
@@ -1160,12 +1162,12 @@
 	"block.create.andesite_funnel.tooltip.condition1": "一般行为",
 	"block.create.andesite_funnel.tooltip.behaviour1": "开口的面会吸收面前一格内的_掉落物_，并_传输_到它与吸收位置的方向相反的_容器_里。",
 	"block.create.andesite_funnel.tooltip.condition2": "当装配在传送带、置物台等类似的组件上时",
-	"block.create.andesite_funnel.tooltip.behaviour2": "会在此组件上_收集·或·放置·物品，并将其背后的物品栏视为缓存，向其中·放入·或从其中·抽出·物品，无论何时，只要该漏斗面朝特定的方向，你都可以通过扳手来翻转它的面朝方向。",
+	"block.create.andesite_funnel.tooltip.behaviour2": "会在此组件上_收集_或_放置_物品，并将其背后的物品栏视为缓存，向其中_放入_或从其中_抽出_物品，无论何时，只要该漏斗面朝特定的方向，你都可以通过扳手来翻转它的面朝方向。",
 	"block.create.andesite_funnel.tooltip.condition3": "当被垂直放置于两个容器之间时",
 	"block.create.andesite_funnel.tooltip.behaviour3": "仅向下垂直传输物品，类似一个没有缓冲槽的漏斗。",
 
 	"block.create.andesite_tunnel.tooltip": "安山隧道",
-	"block.create.andesite_tunnel.tooltip.summary": "传送带的保护隧道，能让你的传送路线优雅地穿过墙壁。",
+	"block.create.andesite_tunnel.tooltip.summary": "这种美观大方且兼具保护能力的遮掩物专为_传送带_而设计。_安山隧道_可以从主传送带上的一堆物品中抽取出一个物品，并将该物品放置到侧面的传送带或者置物台上。",
 	"block.create.andesite_tunnel.tooltip.control1": "扳手右键侧面时",
 	"block.create.andesite_tunnel.tooltip.action1": "如果传送带隧道串联的数量达到三个或以上，可在位于中间的隧道侧面上开启关闭百叶窗。",
 
@@ -1174,12 +1176,12 @@
 	"block.create.brass_funnel.tooltip.condition1": "一般行为",
 	"block.create.brass_funnel.tooltip.behaviour1": "开口的面会吸收面前一格内的_掉落物_，并_传输_到它与吸收位置的方向相反的_容器_里。",
 	"block.create.brass_funnel.tooltip.condition2": "当装配在传送带、置物台等类似的组件上时",
-	"block.create.brass_funnel.tooltip.behaviour2": "会在此组件上_收集·或·放置·物品，并将其背后的物品栏视为缓存，向其中·放入·或从其中·抽出·物品，无论何时，只要该漏斗面朝特定的方向，你都可以通过扳手来翻转它的面朝方向。",
+	"block.create.brass_funnel.tooltip.behaviour2": "会在此组件上_收集_或_放置_物品，并将其背后的物品栏视为缓存，向其中_放入_或从其中_抽出_物品，无论何时，只要该漏斗面朝特定的方向，你都可以通过扳手来翻转它的面朝方向。",
 	"block.create.brass_funnel.tooltip.condition3": "垂直放置于两个容器之间时",
 	"block.create.brass_funnel.tooltip.behaviour3": "向下垂直传输物品，类似一个没有缓冲槽的漏斗。",
 
 	"block.create.brass_tunnel.tooltip": "黄铜隧道",
-	"block.create.brass_tunnel.tooltip.summary": "_黄铜隧道_拥有_过滤_，_分流_传送带上物品的功能。",
+	"block.create.brass_tunnel.tooltip.summary": "这种美观大方且兼具保护能力的遮掩物专为_传送带_而设计。不仅如此，_黄铜隧道_还带有物品_过滤_以及_分流_的配置选项。", 
 	"block.create.brass_tunnel.tooltip.condition1": "当它们_并排放置_时",
 	"block.create.brass_tunnel.tooltip.behaviour1": "紧挨着的_黄铜隧道_可以让传送带路线上穿过的物品_重定向_到与其并排的传送带路线上。",
 	"block.create.brass_tunnel.tooltip.condition2": "过滤",
@@ -1210,7 +1212,7 @@
 	"block.create.seat.tooltip.behaviour1": "会使得玩家坐在_坐垫_上，L-Shift可离开_坐垫_。",
 
 	"block.create.chute.tooltip": "溜槽",
-	"block.create.chute.tooltip.summary": "用于_收集_并_垂直·或·对角·运输_物品。可以从_容器_中抽取也可向_容器_输入。它的侧面可以被_漏斗_、_侧装漏斗_等传输设备交互",
+	"block.create.chute.tooltip.summary": "用于_收集_并_垂直_或_对角_运输_物品。可以从_容器_中抽取也可向_容器_输入。它的侧面可以被_漏斗_、_侧装漏斗_等传输设备交互",
 	"block.create.chute.tooltip.condition1": "当被上方的鼓风机通风时",
 	"block.create.chute.tooltip.behaviour1": "由_鼓风机_驱动的_溜槽_可由下向上传输_物品_，可以从_置物台_或者_传送带_上吸取物品。",
 
@@ -1505,15 +1507,15 @@
 	"block.create.blaze_burner.tooltip.behaviour2": "_消耗_可燃物，并根据该物品在_熔炉中的燃烧时间_来延长_烈焰加热器的燃烧时间_，使用_熔岩蛋糕_投喂将提供_更高的温度_。",
 
 	"block.create.reinforced_rail.tooltip": "强化铁轨",
-	"block.create.reinforced_rail.tooltip.summary": "牢固稳定的铁轨，不需要_方块支撑_。",
+	"block.create.reinforced_rail.tooltip.summary": "牢固稳定的铁轨，下方不需要_方块支撑_。",
 
 	"block.create.mechanical_mixer.tooltip": "动力搅拌器",
-	"block.create.mechanical_mixer.tooltip.summary": "一种能够动态进行搅拌的机器，需要稳定且足够快的转速，并且下方需要放置_工作盆_(中间需要一格高)",
+	"block.create.mechanical_mixer.tooltip.summary": "这种动力搅拌器提供了一些可自动合成的，多原料无序合成的配方。它需要稳定且足够快的转速，并且下方需要放置_工作盆_（中间需要一格高）。",
 	"block.create.mechanical_mixer.tooltip.condition1": "当位于工作盆上方",
 	"block.create.mechanical_mixer.tooltip.behaviour1": "一旦盆内含有了所有必要的原料，搅拌器就会开始搅拌。若想要屏蔽掉那些不需要的配方，你可以在盆上添加过滤，或者在必要原料齐全之前停止向搅拌器供应动力。",
 
 	"block.create.mechanical_crafter.tooltip": "动力合成器",
-	"block.create.mechanical_crafter.tooltip.summary": "一种依靠_动能_的_自动_合成台。根据想要合成的物品的_合成表尺寸_来摆放_相应数量_的动力合成器，并且用扳手调整物品在合成器里的_传动方向_以让他们收束在一起合成并输出",
+	"block.create.mechanical_crafter.tooltip.summary": "这种动力组装装置可以_自动化_任何_有序合成_配方。根据想要合成的物品的_合成表尺寸_来摆放_相应数量_的动力合成器，并且用扳手调整物品在合成器里的_传动方向_以让他们收束在一起合成并输出",
 	"block.create.mechanical_crafter.tooltip.condition1": "接入动力时",
 	"block.create.mechanical_crafter.tooltip.behaviour1": "当机器中_所有_的物品槽都有物品时，将会启动所有的合成器进行工作。",
 	"block.create.mechanical_crafter.tooltip.condition2": "通入红石脉冲",
@@ -1524,12 +1526,12 @@
 	"block.create.mechanical_crafter.tooltip.action2": "连接相邻的合成器的物品栏，这样_相同_的物品就会自动进入所有相互连接的合成器",
 
 	"block.create.furnace_engine.tooltip": "熔炉引擎",
-	"block.create.furnace_engine.tooltip.summary": "一种强力的_旋转动能_的来源，但是需要_正在工作_的_熔炉_(三种熔炉都可以)",
-	"block.create.furnace_engine.tooltip.condition1": "当连接正在燃烧的熔炉",
-	"block.create.furnace_engine.tooltip.behaviour1": "将会带动_相连_的_飞轮_(需要间隔一格)，用高炉速度更快",
+	"block.create.furnace_engine.tooltip.summary": "一种强力的_旋转动能_的来源，但是需要_正在工作_的_熔炉_才能正常运作。",
+	"block.create.furnace_engine.tooltip.condition1": "当连接到正在燃烧的熔炉",
+	"block.create.furnace_engine.tooltip.behaviour1": "将会带动_相连_的_飞轮_(需要间隔一格)，用高炉速度更快。",
 
 	"block.create.flywheel.tooltip": "飞轮",
-	"block.create.flywheel.tooltip.summary": "一种大型的金属轮，能将_熔炉引擎_提供的动能稳定化输出，需要与_熔炉引擎_间隔一个方块",
+	"block.create.flywheel.tooltip.summary": "一种大型的金属轮，能将_熔炉引擎_提供的动能稳定化输出，需要与_熔炉引擎_间隔一个方块。",
 	"block.create.flywheel.tooltip.condition1": "当连接正在输出的_熔炉引擎_",
 	"block.create.flywheel.tooltip.behaviour1": "将会提供相应的_旋转动能_。",
 
