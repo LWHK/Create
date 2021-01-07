@@ -916,7 +916,7 @@
 	"create.gui.schematicTable.availableSchematics": "可用蓝图",
 	"create.gui.schematicTable.noSchematics": "没有保存的蓝图",
 	"create.gui.schematicTable.uploading": "正在上传...",
-	"create.gui.schematicTable.finished": "上传完成!",
+	"create.gui.schematicTable.finished": "上传完成！",
 	"create.gui.schematicannon.title": "蓝图加农炮",
 	"create.gui.schematicannon.listPrinter": "物品清单打印机",
 	"create.gui.schematicannon.gunpowderLevel": "火药%1$s%%",
