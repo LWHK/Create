@@ -1532,7 +1532,7 @@
 
 	"block.create.flywheel.tooltip": "飞轮",
 	"block.create.flywheel.tooltip.summary": "一种大型的金属轮，能将_熔炉引擎_提供的动能稳定化输出，需要与_熔炉引擎_间隔一个方块。",
-	"block.create.flywheel.tooltip.condition1": "当连接正在输出的_熔炉引擎_",
+	"block.create.flywheel.tooltip.condition1": "当连接正在输出的熔炉引擎",
 	"block.create.flywheel.tooltip.behaviour1": "将会提供相应的_旋转动能_。",
 
 	"block.create.portable_storage_interface.tooltip": "移动存储接口",
