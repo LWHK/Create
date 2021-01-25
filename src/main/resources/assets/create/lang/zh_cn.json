@@ -1091,6 +1091,8 @@
 	"create.tooltip.chute.fans_pull_down": "鼓风机从下方进行吸引",
 	"create.tooltip.chute.contains": "内含物品：%1$s x%2$s",
 	
+	"create.hint.hose_pulley.title": "无限供应",
+	"create.hint.hose_pulley": "目标液体对象被视为无限量的。",
 	"create.hint.mechanical_arm_no_targets.title": "没有目标",
 	"create.hint.mechanical_arm_no_targets": "看起来这个_动力臂_没有被分配给任何_目标_。在手持机械臂的同时，右键选取传送带、置物台、漏斗或其他设备来设置目标。",
 	"create.hint.horizontal_funnel.title": "水平漏斗",
