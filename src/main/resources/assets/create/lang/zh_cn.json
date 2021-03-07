@@ -1052,8 +1052,8 @@
 	"create.item_attributes.astralsorcery_constellation.inverted": "不是与%1$s调谐",
 	"create.item_attributes.astralsorcery_perk_gem": "有星能力技能%1$s",
 	"create.item_attributes.astralsorcery_perk_gem.inverted": "没有星能力技能%1$s",
-	"create.item_attributes.astralsorcery_amulet": "提升%1$s",
-	"create.item_attributes.astralsorcery_amulet.inverted": "不提升%1$s",
+	"create.item_attributes.astralsorcery_amulet": "璀璨棱镜增强%1$s",
+	"create.item_attributes.astralsorcery_amulet.inverted": "璀璨棱镜未增强%1$s",
 
 	"create.gui.attribute_filter.no_selected_attributes": "没有标记任何属性",
 	"create.gui.attribute_filter.selected_attributes": "已选择的属性:",
