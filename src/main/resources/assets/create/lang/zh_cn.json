@@ -1177,10 +1177,10 @@
 	"block.create.brass_encased_shaft.tooltip.summary": "_创造模式_物品。用黄铜机壳包裹世界中的传动杆，机壳不会被消耗。",
 
 	"block.create.wooden_bracket.tooltip": "木质支架",
-	"block.create.wooden_bracket.tooltip.summary": "用这种给人温馨感的木质支架，来_装饰_你的_传动杆_，_齿轮_和_管道_吧。",
+	"block.create.wooden_bracket.tooltip.summary": "用这种给人温馨感的木质支架_装饰_你的_传动杆_，_齿轮_和_管道_吧。",
 
 	"block.create.metal_bracket.tooltip": "金属支架",
-	"block.create.metal_bracket.tooltip.summary": "用这种工业风格的金属支架，来_装饰_你的_传动杆_，_齿轮_和_管道_吧。",
+	"block.create.metal_bracket.tooltip.summary": "用这种工业风格的金属支架_装饰_你的_传动杆_，_齿轮_和_管道_吧。",
 
 	"block.create.andesite_casing.tooltip": "安山机壳",
 	"block.create.andesite_casing.tooltip.summary": "具有多种用途的简单机壳，可用于加固并装饰_传动杆_，_传送带_",
@@ -1210,7 +1210,7 @@
 
 	"block.create.brass_tunnel.tooltip": "黄铜隧道",
 	"block.create.brass_tunnel.tooltip.summary": "这种美观大方且兼具保护能力的遮掩物专为_传送带_而设计。不仅如此，_黄铜隧道_还带有物品_过滤_以及_分流_的配置选项。", 
-	"block.create.brass_tunnel.tooltip.condition1": "当它们_并排放置_时",
+	"block.create.brass_tunnel.tooltip.condition1": "当它们并排放置时",
 	"block.create.brass_tunnel.tooltip.behaviour1": "紧挨着的_黄铜隧道_可以让传送带路线上穿过的物品_重定向_到与其并排的传送带路线上。",
 	"block.create.brass_tunnel.tooltip.condition2": "过滤",
 	"block.create.brass_tunnel.tooltip.behaviour2": "_黄铜隧道_的_输入_方向和_输出_方向都带有过滤插槽。如果进入的物品不满足隧道输出端的过滤条件，则该物品会从并排的其他隧道出口传出。",
@@ -1240,7 +1240,7 @@
 	"block.create.seat.tooltip.behaviour1": "会使得玩家坐在_坐垫_上，L-Shift可离开_坐垫_。",
 
 	"block.create.chute.tooltip": "溜槽",
-	"block.create.chute.tooltip.summary": "用于_收集_并_垂直_或_对角_运输_物品。可以从_容器_中抽取也可向_容器_输入。它的侧面可以被_漏斗_、_侧装漏斗_等传输设备交互",
+	"block.create.chute.tooltip.summary": "用于_收集_并_垂直_或_对角_进行物品_传输_。可以从_容器_中抽取也可向_容器_输入。它的侧面可以被_漏斗_、_侧装漏斗_等传输设备交互",
 	"block.create.chute.tooltip.condition1": "当被上方的鼓风机通风时",
 	"block.create.chute.tooltip.behaviour1": "由_鼓风机_驱动的_溜槽_可由下向上传输_物品_，可以从_置物台_或者_传送带_上吸取物品。",
 
@@ -1281,7 +1281,7 @@
 	"block.create.creative_fluid_tank.tooltip": "创造流体储罐",
 	"block.create.creative_fluid_tank.tooltip.summary": "此流体储罐能够_无限的复制_任何流体，根据整体结构的宽和高决定其储存容量",
 	"block.create.creative_fluid_tank.tooltip.condition1": "罐中装有流体时",
-	"block.create.creative_fluid_tank.tooltip.behaviour1": "任意的_流体提取设备_能够从中提取无穷无尽的指定流体，流体的导入功能同时也会无效。",
+	"block.create.creative_fluid_tank.tooltip.behaviour1": "任意的_流体提取设备_能够从中提取无穷无尽的指定流体，流体的导入功能同时也会无效。", 
 	"block.create.creative_fluid_tank.tooltip.condition2": "使用扳手右击",
 	"block.create.creative_fluid_tank.tooltip.behaviour2": "打开或关闭窗户",
 
@@ -1301,7 +1301,7 @@
 	"block.create.smart_fluid_pipe.tooltip.summary": "带有过滤器的_流体管道_。可以指定其只流通特定的_流体_。",
 	"block.create.smart_fluid_pipe.tooltip.condition1": "当流体进入时",
 	"block.create.smart_fluid_pipe.tooltip.behaviour1": "进入的流体与_过滤器_不匹配时，智能管道将_阻止_其通过。",
-	"block.create.smart_fluid_pipe.tooltip.condition2": "与_流体容器相邻_时",
+	"block.create.smart_fluid_pipe.tooltip.condition2": "与流体容器相邻时",
 	"block.create.smart_fluid_pipe.tooltip.behaviour2": "_智能管道_会开始从_相邻的任何容器_中抽取与其过滤器匹配的流体。",
 
 	"block.create.spout.tooltip": "注液器",
@@ -1517,11 +1517,11 @@
 
 	"block.create.mechanical_press.tooltip": "动力辊压机",
 	"block.create.mechanical_press.tooltip.summary": "一个强力的活塞式机器，用于压制其下方的物品。",
-	"block.create.mechanical_press.tooltip.condition1": "当提供_红石信号_时",
+	"block.create.mechanical_press.tooltip.condition1": "当提供红石信号时",
 	"block.create.mechanical_press.tooltip.behaviour1": "_压制_其下方的物品。",
 	"block.create.mechanical_press.tooltip.condition2": "在传送带上方时",
 	"block.create.mechanical_press.tooltip.behaviour2": "_自动压缩_经过传送带的物品。",
-	"block.create.mechanical_press.tooltip.condition3": "在_工作盆_上方时",
+	"block.create.mechanical_press.tooltip.condition3": "在工作盆上方时",
 	"block.create.mechanical_press.tooltip.behaviour3": "开始_压缩_配方中允许压缩的物品。",
 
 	"block.create.basin.tooltip": "工作盆",
@@ -1628,7 +1628,7 @@
 	"block.create.cart_assembler.tooltip.summary": "当放置于铁轨上时，将会_装配_或者_卸载_穿越它的矿车移动结构。按下 [Ctrl] 可以查阅它在不同轨道上的行为。",
 	"block.create.cart_assembler.tooltip.condition1": "单个矿车结构",
 	"block.create.cart_assembler.tooltip.behaviour1": "只有_单个_矿车装配结构，整个结构在旋转时会以这_单个_矿车为基点。使用_扳手_可以指定结构的_旋转行为_。",
-	"block.create.cart_assembler.tooltip.condition2": "连续矿车结构",
+	"block.create.cart_assembler.tooltip.condition2": "连接矿车结构",
 	"block.create.cart_assembler.tooltip.behaviour2": "由_一整个结构所相连_的两个矿车装配结构，这_两个矿车_会被这_架设于它们之间的结构连接起来。这一结构的行为类似于_矿车联轴器_。",
 	"block.create.cart_assembler.tooltip.control1": "放置于轨道上时",
 	"block.create.cart_assembler.tooltip.action1": "通入红石信号时_装配_经过的矿车，未激活时_卸载_经过的矿车。",
@@ -1717,7 +1717,7 @@
 
 	"block.create.redstone_contact.tooltip": "接触式红石信号发生器",
 	"block.create.redstone_contact.tooltip.summary": "一种用于高级红石装置的设备。只能两两工作。可以被_动力活塞_和_动力轴承_等控制类机器带动。",
-	"block.create.redstone_contact.tooltip.condition1": "当正对面放置也放置_相互朝向_的接触信号发生器时",
+	"block.create.redstone_contact.tooltip.condition1": "当正对面放置也放置相互朝向的接触信号发生器时",
 	"block.create.redstone_contact.tooltip.behaviour1": "发出_红石信号_。",
 	"block.create.redstone_contact.tooltip.condition2": "当移动时",
 	"block.create.redstone_contact.tooltip.behaviour2": "会使所有与其接触的发生器发出红石信号。",
@@ -1738,7 +1738,7 @@
 	"block.create.deployer.tooltip.behaviour1": "机械手可伸长_两个方块_的距离，取出_缓存区_的物品并使用。",
 	"block.create.deployer.tooltip.condition2": "当使用扳手右击时",
 	"block.create.deployer.tooltip.behaviour2": "启用拳头模式，在拳头模式之下，机械手将会试图使用手中的物品_破坏方块_，或者_攻击实体_。",
-	"block.create.deployer.tooltip.condition3": "配有_过滤器_时",
+	"block.create.deployer.tooltip.condition3": "配有过滤器时",
 	"block.create.deployer.tooltip.behaviour3": "只有在机械手手持的物品与_过滤器_物品相_匹配_时才会激活。不匹配的物品无法被其持有；匹配且持有在机械手上的物品无法被提取。",
 
 	"block.create.brass_casing.tooltip": "黄铜机壳",
