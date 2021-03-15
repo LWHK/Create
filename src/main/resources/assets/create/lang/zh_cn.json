@@ -1171,10 +1171,10 @@
 	"item.create.example_item.tooltip.action1": "These controls are displayed.",
 
 	"block.create.andesite_encased_shaft.tooltip": "安山传动杆箱",
-	"block.create.andesite_encased_shaft.tooltip.summary": "_创造模式_物品。用安山机壳包裹世界中的传动杆，机壳不会被消耗。",
+	"block.create.andesite_encased_shaft.tooltip.summary": "_创造模式_才可获得这一物品。用_安山机壳_包裹放置在_世界中_的传动杆即可获得，机壳不会被消耗。",
 
 	"block.create.brass_encased_shaft.tooltip": "黄铜传动杆箱",
-	"block.create.brass_encased_shaft.tooltip.summary": "_创造模式_物品。用黄铜机壳包裹世界中的传动杆，机壳不会被消耗。",
+	"block.create.brass_encased_shaft.tooltip.summary": "_创造模式_才可获得这一物品。用_黄铜机壳_包裹放置在_世界中_的传动杆即可获得，机壳不会被消耗。",
 
 	"block.create.wooden_bracket.tooltip": "木质支架",
 	"block.create.wooden_bracket.tooltip.summary": "用这种给人温馨感的木质支架_装饰_你的_传动杆_，_齿轮_和_管道_吧。",
@@ -1575,7 +1575,7 @@
 	"block.create.portable_fluid_interface.tooltip": "移动流体接口",
 	"block.create.portable_fluid_interface.tooltip.summary": "为动力活塞、装配矿车、旋转轴承、滑轮_等移动结构_设计的_流体接口_，_移动结构_和_固定结构_之间的流体交换站，两个接口会面时将_自动对接_，且必须彼此隔开1-2个方块。",
 	"block.create.portable_fluid_interface.tooltip.condition1": "装配在移动结构上时",
-	"block.create.portable_fluid_interface.tooltip.behaviour1": "移动到能够满足与_固定结构_上的_移动式流体接口_对接的条件后，移动结构会_短暂地停下_，开始对接，并直接与_移动结构上的_流体储罐_交互，进行流体的_导入导出_。",
+	"block.create.portable_fluid_interface.tooltip.behaviour1": "移动到能够满足与_固定结构_上的_移动式流体接口_对接的条件后，移动结构会_短暂地停下_，开始对接，并直接与_移动结构_上的_流体储罐_交互，进行流体的_导入导出_。",
 	"block.create.portable_fluid_interface.tooltip.condition2": "通入红石信号时时",
 	"block.create.portable_fluid_interface.tooltip.behaviour2": "立即断开任何处于激活状态的连接。",
 
